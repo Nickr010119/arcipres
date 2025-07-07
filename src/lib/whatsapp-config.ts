@@ -4,7 +4,7 @@
 
 export const WHATSAPP_CONFIG = {
   // Número de teléfono principal de Arcipres (ajustar según el número real)
-  phoneNumber: "+573118798583",
+  phoneNumber: "+573124689881",
   
   // Mensajes predefinidos para diferentes secciones
   messages: {

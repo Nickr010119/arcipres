@@ -55,7 +55,7 @@ export default function ProductDetailPage() {
       setQuantity(newQuantity);
     }
   };
-  const numeroWhatsApp = '+573118798583'; // Reemplaza con el número al que quieres dirigir
+  const numeroWhatsApp = '+573124689881'; // Reemplaza con el número al que quieres dirigir
   const mensajePredefinido = `Hola, quiero más información sobre el: ${product.name}`; // Mensaje opcional
   
   const handleAddToCart = () => {
