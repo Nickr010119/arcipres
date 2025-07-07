@@ -2,7 +2,7 @@
 
 > **Sitio web corporativo para Arcipres, empresa especializada en productos de arcilla y prefabricados de concreto de alta calidad para construcción en Colombia.**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/TU_USUARIO/arcipres&env=NEXT_PUBLIC_GA_ID)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Nickr010119/arcipres&env=NEXT_PUBLIC_GA_ID)
 [![Live Demo](https://img.shields.io/badge/Demo-Live-green)](https://arcipres.vercel.app)
 
 ## 🎯 **Descripción del Proyecto**
@@ -50,7 +50,7 @@ Arcipres es una plataforma web moderna diseñada para mostrar y comercializar pr
 
 ### **1-Click Deploy en Vercel:**
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/TU_USUARIO/arcipres)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Nickr010119/arcipres)
 
 ### **Variables de Entorno:**
 ```bash
@@ -67,7 +67,7 @@ NEXT_PUBLIC_GA_ID=G-XXXXXXXXXX  # Tu Google Analytics ID
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/TU_USUARIO/arcipres.git
+git clone https://github.com/Nickr010119/arcipres.git
 cd arcipres
 
 # Instalar dependencias
