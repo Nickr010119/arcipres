@@ -15,8 +15,8 @@ const categories = [
   "Todo",
   "Arcilla",
   "Concreto",
-  "Inmobiliario Urbano",
-  "Acueducto",
+  "Mobiliario Urbano",
+  "Acueducto y Alcantarillado",
 ];
 
 export default function ProductsPage() {
