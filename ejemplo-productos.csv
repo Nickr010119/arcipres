@@ -1,0 +1,217 @@
+id,name,image,price,category,description,features,specs_general,,,
+1,"Sardinel A10",,"$36000",Concreto,"Elemento prefabricado de concreto pequeño, usado como delimitador de zonas verdes o senderos peatonales. Ideal para urbanismo ligero.","Color: Gris natural
+Peso: 130 kg
+Medidas: 80 x 20 x 50 cm
+","Módulo de rotura (28 días): 3.5 MPa
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+2,"Sardinel A40 ",,"$34000",Concreto,"Sardinel de concreto de mayor altura, utilizado para separar áreas peatonales de zonas vehiculares en vías urbanas.","Color: Gris
+Peso: 116 kg
+Medidas: 100 x 17 x 40 cm
+","Módulo de rotura (28 días): 3.5 MPa
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+ss,"Sardinel A100",,"$28000",Concreto,"Pieza robusta de concreto empleada en separadores viales o bordes de andenes; soporta tránsito peatonal y liviano.","Color: Gris
+Peso: 93 kg
+Medidas: 60 x 20 x (35-50) cm
+","Módulo de rotura (28 días): 3.5 MPa
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+4,"Sardinel A86",,"$27800",Concreto,"Elemento intermedio en tamaño, usado para delimitar calzadas, jardineras o pasos peatonales en zonas residenciales.","Color: Gris
+Peso: 97 kg
+Medidas: 86 x 20 x 35 cm
+","Módulo de rotura (28 días): 3.5 MPa
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+5,"Sardinel A85",,"$27000",Concreto,"Prefabricado decorativo y funcional, adecuado para bordes de vías internas, zonas verdes y senderos.","Color: Gris
+Peso: 97.44 kg
+Medidas: 80 x 20 x 35 cm
+","Módulo de rotura (28 días): 3.5 MPa
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+6,"Sardinel A105",,"$30000",Concreto,"Sardinel de alto desempeño, diseñado para proyectos urbanos con tráfico peatonal y delimitación vial duradera.","Color: Gris
+Peso: 114 kg
+Medidas: 80 x 40 x 27.5 cm
+","Módulo de rotura (28 días): 3.5 MPa
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+7,"Bordillo A80 ",,"$27800",Concreto,"Bordillo prefabricado de concreto para andenes y calzadas. Proporciona contención y guía al flujo vehicular y peatonal.","Color: Gris
+Peso: 87 kg
+Medidas: 80 x 20 x 35 cm
+","Módulo de rotura (28 días): 3.5 MPa
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+8,"Bordillo A81",,"$27000",Concreto,"Variante reforzada del bordillo A80, utilizada en zonas de mayor exigencia estructural como avenidas y entradas vehiculares.","Color: Gris
+Peso: 82 kg
+Medidas: 80 x 15 x 35 cm
+","Módulo de rotura (28 días): 3.5 MPa
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+9,"Bordillos B-20; B-30",,"$19000",Concreto,"Bordillos de concreto para tráfico pesado (B-30) y tráfico medio (B-20). Usados en vías principales, parques industriales y urbanismos.","Color: Gris
+Peso: B-20: 50 kg; B-30: 50 kg
+Medidas: 100 x 10 x 20 cm
+","Módulo de rotura (28 días): 3.5 MPa
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+10,"Bloque Liso 14",,"$4800",Concreto,"Bloque estructural de concreto de superficie plana. Se emplea en la construcción de muros portantes y divisiones.","Color: Gris
+Peso: 14 kg
+Medidas: 40 x 20 x 20 cm
+","Rendimiento: 12.5 unidades/m²
+Resistencia: 1500 PSI
+Absorción de agua: ≤ 14%
+",,,
+11,"Bloque Abujardado",,"$5300",Concreto,"Bloque decorativo con textura rugosa. Ideal para fachadas, muros exteriores y detalles arquitectónicos.","Color: Gris
+Peso: 14 kg
+Medidas: 40 x 20 x 20 cm
+","Rendimiento: 12.5 unidades/m²
+Resistencia: 1500 PSI
+Absorción de agua: ≤ 14%
+",,,
+12,"Adoquín en concreto",,"$980",Concreto,"Pieza prefabricada para pavimentos. Resistente al desgaste, se usa en andenes, ciclorutas, zonas peatonales y parques.","Color: Gris, rojo, ocre
+Peso: 2.7 kg/unidad
+Medidas: 20 x 10 x 6 cm; 20 x 10 x 8 cm
+","Rendimiento: 50 unidades/m²
+Resistencia: 6000 PSI
+Absorción de agua: ≤ 6%
+",,,
+13,"Loseta en concreto",,"$9500",Concreto,"Baldosa rectangular de concreto. Aplicada en pisos peatonales, plazas, corredores y espacios públicos.","Color: Gris o pigmentada
+Tipo: Guía, Toperol, Lisa o Cuadrática
+Peso: 22 kg
+Medidas: 40 x 40 x 6 cm
+","Rendimiento: 6.25 unidades/m²
+Resistencia: 4000 PSI
+Absorción de agua: ≤ 6%
+",,,
+14,"Tapa de inspección 0.70",,"$195000","Acueducto y Alcantarillado","Tapa de concreto de 70 cm de diámetro, usada en redes de alcantarillado y cajas de inspección para acceso y mantenimiento.","Color: Gris oscuro
+Peso: 100 kg
+Diámetro: 70 cm
+Uso: Acceso a pozos
+","Uso: Acceso a pozos
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+15,"Cargue en concreto 1.70",,"$930000","Acueducto y Alcantarillado","Elemento prefabricado que facilita la transición entre estructuras o cubrimiento en sistemas de drenaje o alcantarillado.","Color: Gris
+Peso: Variable
+Medidas: Variable
+Uso: Nivelación estructural
+","Uso: Nivelación estructural
+Resistencia: 4000 PSI
+Absorción de agua: ≤ 6%
+",,,
+16,"Cono de reducción",,"$520000","Acueducto y Alcantarillado","Pieza de concreto en forma cónica, reduce el diámetro de cámaras de inspección en redes sanitarias o pluviales.","Color: Gris
+Peso: 150 kg
+Medidas: Base 100 a 70 cm
+Uso: Reducción en pozos
+","Uso: Reducción en pozos
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+17,"Sección cilindrica",,"$0","Acueducto y Alcantarillado","Anillo vertical de concreto, forma el cuerpo de pozos o cámaras de inspección en sistemas de alcantarillado.","Color: Gris
+Peso: 300 kg
+Medidas: Diámetro 100 x 50 cm de alto
+Uso: Pozos de inspección
+","Uso: Pozos de inspección
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+18,"Anillo de reducción",,"$0","Acueducto y Alcantarillado","Pieza que permite reducir el diámetro superior de una sección cilíndrica para acoplar tapas de inspección.","Color: Gris
+Peso: 60 kg
+Medidas: Diámetro 70 cm
+Uso: Reducción superior de cámaras
+","Uso: Reducción superior de cámaras
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+19,"Rejilla SL-100",,"$195000","Acueducto y Alcantarillado","Rejilla de concreto con ranuras para drenaje superficial. Usada en andenes, zonas peatonales y parques.","Color: Gris
+Peso: 100 kg
+Medidas: 83.5 x 45.5 x 14 cm
+Uso: Drenaje superficial Vehicular
+","Uso: Drenaje superficial
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+20,"Marco de rejilla en concreto",,"$95000","Acueducto y Alcantarillado","Soporte estructural para instalar rejillas de drenaje. Asegura estabilidad y correcta alineación con el pavimento.","Color: Gris
+Peso: 55 kg
+Medidas: Variable
+Uso: Soporte estructural
+","Uso: Soporte estructural
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+21,"Rejilla vehicular en concreto",,"$177000","Acueducto y Alcantarillado","Diseñada para soportar carga vehicular. Se emplea en zonas de acceso, calles y parqueaderos.","Color: Gris reforzado
+Peso: 80 kg
+Medidas: 80 x 40 x 10 cm
+Uso: Vías vehiculares
+","Uso: Vías vehiculares
+Resistencia: 6000 PSI
+Absorción de agua: ≤ 6%
+",,,
+22,"Rejilla peatonal en concreto",,"$26000","Acueducto y Alcantarillado","Rejilla liviana, ideal para desagües en zonas peatonales, senderos y espacios públicos.","Color: Gris
+Peso: 35 kg
+Medidas: 100 x 25 cm
+Uso: Caminos peatonales
+","Uso: Caminos peatonales
+Resistencia: 5000 PSI
+Absorción de agua: ≤ 6%
+",,,
+23,"Bloque Número 4",,"$950",Arcilla,"Bloque de arcilla o concreto, tamaño convencional, usado en la construcción de muros divisorios y cerramientos.","Color: Rojo
+Peso: 2.5 kg
+Medidas: 30 x 20 x 10 cm
+Rendimiento: 12.5 unidades/m²
+","Resistencia: 800 PSI
+Absorción de agua: ≤ 18%
+",,,
+24,"Ladrillo recocido",,"$410",Arcilla,"Ladrillo tradicional cocido en horno, resistente y de buen acabado. Usado en muros estructurales y decorativos.","Color: Rojo/terracota
+Peso: 2.3 kg
+Medidas: 20 x 10 x 6 cm
+Rendimiento: 50 unidades/m²
+","Resistencia: 800 PSI
+Absorción de agua: ≤ 18%
+",,,
+25,"Adoquín en arcilla",,"$0",Arcilla,"Pieza modular de arcilla cocida. Brinda acabado estético a pisos peatonales, plazas y zonas de tránsito ligero.","Color: Rojo, café
+Peso: 3.5 kg
+Medidas: 20 x 10 x 6 cm
+Rendimiento: 50 unidades/m²
+","Resistencia: 6000 PSI
+Absorción de agua: ≤ 6%
+",,,
+26,Bloquelón,,"$0",Arcilla,"Bloque de gran tamaño, utilizado en cubiertas livianas o como formaleta perdida en techos.","Color: Gris
+Peso: 9 kg
+Medidas: 80 x 22.8 x 7.7 cm
+Rendimiento: 4.93 unidades/m²
+","Resistencia: 1500 PSI
+Absorción de agua: ≤ 14%
+",,,
+27,"Banca M30",,"$0","Mobiliario Urbano","Banca urbana en concreto, diseño compacto. Se instala en parques, zonas comunes y espacios públicos.","Color: Gris o pigmentada
+Peso: 140 kg
+Medidas: 1.80 x 0.60 x 0.45 m
+","Resistencia: 3000 PSI
+Absorción de agua: ≤ 6%
+",,,
+28,"Banca Modular M40",,"$105000","Mobiliario Urbano","Sistema de banca modular para urbanismo, combinable entre sí. Ideal para espacios públicos de gran afluencia.","Color: Gris
+Peso: 121 kg
+Medidas: 52 x 55 x 40 cm
+","Resistencia: 3000 PSI
+Absorción de agua: ≤ 6%
+",,,
+29,"Bolardo M60",,"$110000","Mobiliario Urbano","Elemento cilíndrico de concreto que delimita áreas peatonales. Previene el acceso vehicular no autorizado.","Color: Gris
+Peso: 50 kg
+Altura: 60 cm
+","Resistencia: 4000 PSI
+Absorción de agua: ≤ 6%
+",,,
+30,"Postes para cerramiento",,"$0","Mobiliario Urbano","Postes prefabricados de concreto utilizados en la instalación de cercas perimetrales en fincas, obras y terrenos.","Color: Gris
+Peso: 25-35 kg
+Medidas: 250 cm de alto x 10 cm de diámetro
+","Resistencia: 4000 PSI
+Absorción de agua: ≤ 6%
+",,,

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Arcipres - Prueba de Favicon</title>
+    <link rel="icon" href="/icon.svg" type="image/svg+xml">
+    <link rel="icon" href="/favicon.ico" sizes="any">
+    <link rel="shortcut icon" href="/favicon.ico">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background: #f5f5f5;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+        }
+        .favicon-preview {
+            width: 32px;
+            height: 32px;
+            border: 1px solid #ddd;
+            margin: 10px;
+            display: inline-block;
+        }
+        .success {
+            color: #28a745;
+            font-weight: bold;
+        }
+        .warning {
+            color: #ffc107;
+            font-weight: bold;
+        }
+        .error {
+            color: #dc3545;
+            font-weight: bold;
+        }
+        .arcipres-orange {
+            color: #fc6a0a;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="arcipres-orange">🧪 Prueba de Favicon - Arcipres</h1>
+        
+        <h2>✅ Estado del Favicon</h2>
+        <p>Si ves el logo de Arcipres en la pestaña del navegador, ¡está funcionando!</p>
+        
+        <h3>📱 Previsualizaciones</h3>
+        <p>Favicon SVG: <img src="/icon.svg" class="favicon-preview" alt="Favicon SVG"></p>
+        <p>Favicon ICO: <img src="/favicon.ico" class="favicon-preview" alt="Favicon ICO"></p>
+        
+        <h3>🔍 Verificaciones</h3>
+        <ul>
+            <li class="success">✅ Título: "Arcipres - Prueba de Favicon"</li>
+            <li class="success">✅ Meta tags configurados</li>
+            <li class="success">✅ Enlaces a icon.svg y favicon.ico</li>
+        </ul>
+        
+        <h3>🛠️ Solución de Problemas</h3>
+        <ol>
+            <li><strong>Ctrl + F5</strong> - Recarga forzada</li>
+            <li><strong>Ctrl + Shift + Delete</strong> - Limpiar caché</li>
+            <li><strong>F12 → Network</strong> - Verificar carga de archivos</li>
+            <li><strong>Modo incógnito</strong> - Navegar sin caché</li>
+        </ol>
+        
+        <h3>📂 Archivos del Favicon</h3>
+        <ul>
+            <li><code>/icon.svg</code> - Favicon principal (SVG escalable)</li>
+            <li><code>/favicon.ico</code> - Favicon de compatibilidad</li>
+        </ul>
+        
+        <div style="margin-top: 30px; padding: 20px; background: #fc6a0a; color: white; border-radius: 5px;">
+            <h4>🏢 Arcipres - Arcillas y Prefabricados</h4>
+            <p>Productos de arcilla y prefabricados de concreto de la más alta calidad para sus proyectos de construcción.</p>
+        </div>
+    </div>
+    
+    <script>
+        // Verificar que los favicons se carguen correctamente
+        function checkFavicon() {
+            console.log('🔍 Verificando favicon...');
+            
+            // Verificar icon.svg
+            fetch('/icon.svg')
+                .then(response => {
+                    if (response.ok) {
+                        console.log('✅ icon.svg cargado correctamente');
+                    } else {
+                        console.log('❌ Error cargando icon.svg:', response.status);
+                    }
+                })
+                .catch(error => console.log('❌ Error con icon.svg:', error));
+            
+            // Verificar favicon.ico
+            fetch('/favicon.ico')
+                .then(response => {
+                    if (response.ok) {
+                        console.log('✅ favicon.ico cargado correctamente');
+                    } else {
+                        console.log('❌ Error cargando favicon.ico:', response.status);
+                    }
+                })
+                .catch(error => console.log('❌ Error con favicon.ico:', error));
+        }
+        
+        // Ejecutar verificación al cargar la página
+        window.addEventListener('load', checkFavicon);
+    </script>
+</body>
+</html>

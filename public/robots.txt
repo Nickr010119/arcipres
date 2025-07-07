@@ -1,0 +1,42 @@
+# robots.txt para Arcipres - Arcillas y Prefabricados
+# Sitio web: https://arcipres.com
+
+User-agent: *
+Allow: /
+
+# Permitir acceso completo a todas las páginas principales
+Allow: /products
+Allow: /products/*
+Allow: /dashboard
+Allow: /profile
+Allow: /showcase
+
+# Bloquear páginas administrativas y de autenticación
+Disallow: /api/
+Disallow: /auth/
+Disallow: /dashboard/admin
+Disallow: /_next/
+Disallow: /vercel.svg
+
+# Permitir crawling de imágenes
+Allow: /*.jpg$
+Allow: /*.jpeg$
+Allow: /*.png$
+Allow: /*.svg$
+Allow: /*.webp$
+
+# Sitemap location
+Sitemap: https://arcipres.com/sitemap.xml
+
+# Crawl-delay para ser amigable con los servidores
+Crawl-delay: 1
+
+# Configuración específica para Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Configuración específica para Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
